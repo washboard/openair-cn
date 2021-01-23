@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <code-assistance-data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <code-model-enabled>true</code-model-enabled>
+    </code-assistance-data>
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>0</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/epc/openair-cn/src/nas/nas_network.c</file>
+            <file>file:/home/epc/openair-cn/src/common/s11_messages_types.h</file>
+            <file>file:/home/epc/openair-cn/src/common/itti/intertask_interface.c</file>
+            <file>file:/home/epc/openair-cn/src/nas/emm/emm_main.c</file>
+            <file>file:/home/epc/openair-cn/src/oai_hss/s6a/s6a_peers.c</file>
+            <file>file:/home/epc/openair-cn/src/mme_app/mme_app_main.c</file>
+            <file>file:/home/epc/openair-cn/src/oai_hss/utils/hss_config.c</file>
+            <file>file:/home/epc/openair-cn/src/oai_mme/oai_mme.c</file>
+            <file>file:/home/epc/openair-cn/src/common/itti/timer_messages_def.h</file>
+            <file>file:/home/epc/openair-cn/src/s1ap/s1ap_mme_itti_messaging.c</file>
+            <file>file:/home/epc/openair-cn/src/oai_hss/s6a/s6a_purge_ue.c</file>
+            <file>file:/home/epc/openair-cn/src/oai_hss/access_restriction/access_restriction.c</file>
+            <file>file:/home/epc/openair-cn/src/oai_hss/utils/hss_config.h</file>
+            <file>file:/home/epc/openair-cn/src/nas/nas_proc.h</file>
+            <file>file:/home/epc/openair-cn/src/nas/nas_mme_task.c</file>
+            <file>file:/home/epc/openair-cn/src/oai_hss/db/db_connector.c</file>
+            <file>file:/home/epc/openair-cn/src/common/itti/messages_def.h</file>
+            <file>file:/home/epc/openair-cn/src/s6a/s6a_defs.h</file>
+            <file>file:/home/epc/openair-cn/src/common/s11_messages_def.h</file>
+            <file>file:/home/epc/openair-cn/src/udp/udp_primitives_server.c</file>
+            <file>file:/home/epc/openair-cn/src/nas/util/nas_timer.c</file>
+            <file>file:/home/epc/openair-cn/src/nas/nas_proc.c</file>
+            <file>file:/home/epc/openair-cn/src/mme_app/mme_app_context.c</file>
+            <file>file:/home/epc/openair-cn/src/mme_app/mme_app_ue_context.h</file>
+            <file>file:/home/epc/openair-cn/src/oai_hss/auc/random.c</file>
+            <file>file:/home/epc/openair-cn/src/common/3gpp_23.003.h</file>
+            <file>file:/home/epc/openair-cn/src/oai_hss/hss_main.c</file>
+            <file>file:/home/epc/openair-cn/src/oai_hss/s6a/s6a_auth_info.c</file>
+            <file>file:/home/epc/openair-cn/src/mme_app/mme_app_bearer.c</file>
+            <file>file:/home/epc/openair-cn/src/common/itti/intertask_interface_types.h</file>
+            <file>file:/home/epc/openair-cn/src/utils/lfds/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_queue.c</file>
+            <file>file:/home/epc/openair-cn/src/oai_hss/s6a/s6a_fd.c</file>
+        </group>
+    </open-files>
+</project-private>
